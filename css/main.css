@@ -90,7 +90,7 @@ textarea {
      display: grid;
      grid-template-columns: repeat(4, 1fr);
      grid-gap: 10px;
-     grid-auto-rows: 200px;
+     grid-auto-rows: 160px;
      grid-template-areas:
        ". . . ."
        ". a a ."
