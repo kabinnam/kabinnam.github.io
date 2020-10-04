@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
+    <h1>Hi people 👋🏼</h1>
     <p>Nothing to see here, yet 😃</p>
     {/* <p>{data.site.siteMetadata.description}</p>
     <ul>
