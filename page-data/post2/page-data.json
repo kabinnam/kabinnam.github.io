@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-post-js","path":"/post2","result":{"data":{"file":{"childMarkdownRemark":{"frontmatter":{"title":"This is my second post"},"html":"<ul>\n<li>Just a test</li>\n</ul>"}}},"pageContext":{"relativePath":"post2.md"}},"staticQueryHashes":["3649515864","63159454"]}
